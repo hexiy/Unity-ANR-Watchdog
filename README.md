@@ -16,7 +16,7 @@ Open package manager and select "Add package from git URL..."
 Enter package url:
 
 ```
-https://github.com/Norne9/Unity-ANR-Watchdog.git
+https://github.com/hexiy/Unity-ANR-Watchdog.git
 ```
 
 And click "Add"
